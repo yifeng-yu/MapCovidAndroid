@@ -16,7 +16,7 @@ All dependencies are listed in the app level build.gradle file and should be aut
 
 In file "local.properties", add the google maps API key.
 ```java
-MAPS_API_KEY=AIzaSyDjhmz8ZWJUrCnU_DveuFKhkL2nXHWMQHM
+MAPS_API_KEY=AIzaSyDjhmz8ZWJUrCnU_DveuKQOL2nXHSHWHM
 ```
 
 At Android emulator sidebar, click "...", go to "Location", set location to Los Angeles.
